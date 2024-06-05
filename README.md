@@ -9,3 +9,5 @@
 ### AI导航
 
 > [通义千问](https://tongyi.aliyun.com/qianwen/)
+
+> [字节 coze](https://www.coze.com/home)
