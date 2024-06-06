@@ -12,9 +12,14 @@
 
 > [小程序-小程序备案](https://developers.weixin.qq.com/doc/oplatform/openApi/OpenApiDoc/miniprogram-management/record/queryIcpVerifyTask.html)
 
+> [企业微信开发文档](https://developer.work.weixin.qq.com/document)
 
 ### AI导航
 
 > [通义千问](https://tongyi.aliyun.com/qianwen/)
 
 > [字节 coze](https://www.coze.com/home)
+
+### 资讯
+
+> [小红书](https://www.xiaohongshu.com/explore)
